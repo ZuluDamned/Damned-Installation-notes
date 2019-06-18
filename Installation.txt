@@ -11,7 +11,8 @@
  
 4. launch game and play!
  
-5. report any bugs you may find in the "PTB-bug_reports" tab in the Damned discord, or on the Bug report section on the steam forums.
+5. report any bugs you may find in the "PTB-bug_reports" tab in the Damned discord, or on the Bug report section on the
+   steam forums.
  
  
  
