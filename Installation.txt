@@ -1,0 +1,25 @@
+HOW TO INSTALL:
+ 
+ 
+ 
+1. make a backup of your entire damned folder located normally at: C:\Program Files (x86)\Steam\steamapps\common
+ 
+2. copy the folders in the RAR file named "Damned-master"
+ 
+3. paste the copied folders into C:\Program Files (x86)\Steam\steamapps\common\Damned       and overwrite anything it asks you to (this is why you have a backup!)
+ 
+4. launch game and play!
+ 
+5. report any bugs you may find in the "PTB-bug_reports" tab in the Damned discord, or on the Bug report section on the steam forums.
+ 
+ 
+ 
+ 
+ 
+ 
+if you ever want to revert to the original Damned, just delete your modified Damned folder at C:\Program Files (x86)\Steam\steamapps\common    and then paste your original back up there.
+ 
+ 
+ 
+******IMPORTANT******
+players on a test patch cannot play games with people playing the original base game. To revert, follow the instructions above, or in the video.
