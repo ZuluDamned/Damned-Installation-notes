@@ -6,7 +6,8 @@
  
 2. copy the folders in the RAR file named "Damned-master"
  
-3. paste the copied folders into C:\Program Files (x86)\Steam\steamapps\common\Damned       and overwrite anything it asks you to (this is why you have a backup!)
+3. paste the copied folders into C:\Program Files (x86)\Steam\steamapps\common\Damned       
+   and overwrite anything it asks you to (this is why you have a backup!)
  
 4. launch game and play!
  
