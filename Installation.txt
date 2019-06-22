@@ -22,10 +22,10 @@
  
  
 if you ever want to revert to the original Damned, just delete your modified Damned folder
-at C:\Program Files (x86)\Steam\steamapps\common  and then paste your original back up there.
+at C:\Program Files (x86)\Steam\steamapps\common  and then paste your original back up there - you must also delete the 2 new maps at (x86)\Steam\steamapps\common\Damned\DamnedData\Resources\Stages
  
  
  
 ******IMPORTANT******
 players on a test patch cannot play games with people playing the original base game. 
-To revert, follow the instructions above, or in the video.
+To revert, follow the instructions above.
