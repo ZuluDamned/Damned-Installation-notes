@@ -1,5 +1,7 @@
 **HOW TO INSTALL:**
  
+ (WE HAVE RELEASED A PATCHER TOOL TO DO THIS PROCESS IMMEDIATELY LISTED BELOW)
+ https://github.com/Sweats/Damned-Workshop/raw/master/bin/Debug/DamnedWorkshop.exe
  
  
 1. make a backup of your entire damned folder located normally at: C:\Program Files (x86)\Steam\steamapps\common
